@@ -1,0 +1,7 @@
+/Debug
+/Release
+/obj
+/build
+/external
+/lib/glfw
+/.vscode
